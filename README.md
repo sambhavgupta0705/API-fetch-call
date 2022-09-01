@@ -1,6 +1,6 @@
 # API-fetch-call
 
-This is a practice repository of Promises and API call 
+This is a practice repository of Promises and API call .
 I took refernce from [here](https://codingthesmartway.com/fetch-api-introduction-to-promised-based-data-fetching-in-plain-javascript/)
 
 Here is an overview of the repository
